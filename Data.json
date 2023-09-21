@@ -1,0 +1,142 @@
+[
+  {
+    "headers": {
+      "Date": [
+        "Sat, 16 Sep 2023 23:00:00 GMT"
+      ],
+      "Content-Type": [
+        "application/json"
+      ],
+      "Connection": [
+        "keep-alive"
+      ],
+      "Allow-Control-Allow-Origin": [
+        "*"
+      ],
+      "Access-Control-Allow-Origin": [
+        "*"
+      ],
+      "Access-Control-Allow-Headers": [
+        "Authorization, UserId, Hash, Name, Password, Accept, Accept-Language, x-api-key, Content-Language, Content-Type, Cache-Control, Origin, X-Requested-With"
+      ],
+      "Access-Control-Allow-Methods": [
+        "GET, HEAD, POST, OPTIONS, DELETE, PUT"
+      ],
+      "Allow-Control-Allow-Methods": [
+        "GET, HEAD, POST, OPTIONS, DELETE, PUT"
+      ],
+      "CF-Cache-Status": [
+        "DYNAMIC"
+      ],
+      "Report-To": [
+        "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=vS8kdxXQ%2B%2Fz%2FVYXc1%2FKNKdHeitkyT3yRlKpINNO0DfptjpJOpbD%2Flhp%2FlWH00OE1dwg09MhCyHNZd2kh9x%2FpUzv5OO0s3ulAszYrpRm02Li7QFOxDGEjoXlc9SxR2jdQpihM3EE%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "NEL": [
+        "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}"
+      ],
+      "Server": [
+        "cloudflare"
+      ],
+      "CF-RAY": [
+        "807cb91cbdcaab2c-EZE"
+      ],
+      "alt-svc": [
+        "h3=\":443\"; ma=86400"
+      ]
+    },
+    "body": {
+      "results": [
+        {
+          "readyInMinutes": 20,
+          "sourceUrl": "http://www.foodista.com/recipe/7GBXXW87/pumpkin-french-toast",
+          "image": "pumpkin-french-toast-657306.jpg",
+          "servings": 4,
+          "id": 657306,
+          "title": "Pumpkin French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "https://www.foodista.com/recipe/SFDPJKSS/nutella-stuffed-french-toast",
+          "image": "Nutella-Stuffed-French-Toast-653371.jpg",
+          "servings": 2,
+          "id": 653371,
+          "title": "Nutella Stuffed French Toast"
+        },
+        {
+          "readyInMinutes": 20,
+          "sourceUrl": "http://www.foodista.com/recipe/F3MF6QN4/french-toast-croissants",
+          "image": "French-Toast-Croissants-with-Strawberries-643405.jpg",
+          "servings": 4,
+          "id": 643405,
+          "title": "French Toast Croissants with Strawberries"
+        },
+        {
+          "readyInMinutes": 30,
+          "sourceUrl": "http://www.foodista.com/recipe/YHS62KZ4/spicy-coconut-french-toast",
+          "image": "Spicy-Coconut-French-Toast-661071.jpg",
+          "servings": 6,
+          "id": 661071,
+          "title": "Spicy Coconut French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "https://www.foodista.com/recipe/6RMLP5LZ/peanut-butter-banana-french-toast",
+          "image": "Peanut-Butter-Banana-French-Toast-655239.jpg",
+          "servings": 1,
+          "id": 655239,
+          "title": "Peanut Butter Banana French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "http://www.foodista.com/recipe/HLK82TKB/pain-perdu-brioche-french-toast",
+          "image": "Pain-Perdu---Brioche-French-Toast-654344.jpg",
+          "servings": 6,
+          "id": 654344,
+          "title": "Pain Perdu - Brioche French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "http://www.foodista.com/recipe/4LGQCBGZ/balthazar-brioche-french-toast",
+          "image": "Balthazar-Brioche-French-Toast-633956.jpg",
+          "servings": 6,
+          "id": 633956,
+          "title": "Balthazar Brioche French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "https://www.foodista.com/recipe/RQ3NV6D7/butternut-squash-french-toast",
+          "image": "Butternut-Squash-French-Toast-636588.jpg",
+          "servings": 4,
+          "id": 636588,
+          "title": "Butternut Squash French Toast"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "http://www.pinkwhen.com/blueberry-stuffed-croissant-french-toast-with-bacon/",
+          "image": "blueberry-stuffed-croissant-french-toast-with-bacon-673440.jpg",
+          "servings": 4,
+          "id": 673440,
+          "title": "Blueberry Stuffed Croissant French Toast with Bacon"
+        },
+        {
+          "readyInMinutes": 45,
+          "sourceUrl": "https://spoonacular.com/site-1588602898880",
+          "image": "easy-berry-french-toast-1444543.jpg",
+          "servings": 4,
+          "author": "coffeebean",
+          "id": 1444543,
+          "title": "Easy Berry French Toast"
+        }
+      ],
+      "baseUri": "https://spoonacular.com/recipeImages/",
+      "offset": 0,
+      "number": 10,
+      "totalResults": 10,
+      "processingTimeMs": 50,
+      "expires": 1694989259640,
+      "isStale": false
+    },
+    "statusCode": "OK",
+    "statusCodeValue": 200
+  }
+]
